@@ -4,6 +4,6 @@ x = 'ewerton';
 x = 1;
 x = 4;
 x = 3;
-const y = 222;
+const y = 2222;
 
 if (typeof x === 'number') console.log(x + y);
