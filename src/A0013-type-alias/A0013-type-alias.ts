@@ -1,4 +1,5 @@
 // Alias -> Criar um apelido para um tipo.
+// Apenas um teste.
 type Age = number; // Isso é um tipo criado.
 type Person = {
   nome: string;
