@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   // Webpack fica mais rápido no modo develop.
   mode: 'development',
-  entry: './src/A0018-webpack/index.ts',
+  entry: './src/A0019-exercicio/A0019-exercicio.ts',
   module: {
     rules: [
       {
