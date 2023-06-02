@@ -141,4 +141,6 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
+# Ignorar a pasta frontend criada para o webpack
+frontend/assets/js
 # End of https://www.toptal.com/developers/gitignore/api/node
